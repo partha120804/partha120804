@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Partha Sarathi Das</h1>
----
+
 <img style="display: block; margin: 0 auto;" align="right" alt="coding" width="900" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 
 ---
-
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="justify">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
