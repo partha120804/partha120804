@@ -34,9 +34,9 @@
 ###
 
 
-[!Partha's Stats](https://github-readme-stats.vercel.app/api?username=partha120804&theme=react&show_icons=true&hide_border=true&count_private=true)
-[!Partha's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=partha120804&theme=react&hide_border=true)
-[!Partha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=partha120804&theme=react&hide_border=true)
+![Partha's Stats](https://github-readme-stats.vercel.app/api?username=partha120804&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Partha's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=partha120804&theme=react&hide_border=true)
+![Partha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=partha120804&theme=react&hide_border=true)
 [![Partha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=partha120804&theme=react&hide_border=true)](https://github.com/partha120804/github-readme-activity-graph)
 <!--[![Partha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=partha120804&bg_color=0c1014&color=268f77&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/partha120804/github-readme-activity-graph)-->
 
