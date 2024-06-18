@@ -32,12 +32,10 @@
 ##
 
 ###
-![Partha's Stats](https://github-readme-stats.vercel.app/api?username=partha120804&theme=react&show_icons=true&hide_border=true&count_private=true)
-
-###
 ![Partha's Languages](https://github-readme-stats.vercel.app/api/top-langs?username=partha120804&theme=react&hide_border=true)
 
 ###
+![Partha's Stats](https://github-readme-stats.vercel.app/api?username=partha120804&theme=react&show_icons=true&hide_border=true&count_private=true)
 ![Partha's Streak](https://github-readme-streak-stats.herokuapp.com/?user=partha120804&theme=react&hide_border=true)
 
 ###
