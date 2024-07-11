@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Partha Sarathi Das</h1>
 
 ##
-
 ###
 
 <h2 align="left">Languages and Tools:</h2>
